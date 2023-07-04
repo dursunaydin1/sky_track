@@ -53,5 +53,5 @@ Değişikliklerinizi açıklayan bir "pull request" gönderin.</br>
 İnceleme sürecinden sonra değişiklikleriniz ana projeye entegre edilebilir.</br>
 Lütfen yapmak istediğiniz değişiklikleri açıklamak için ayrıntılı bir açıklama ekleyin ve uygun bir şekilde test ettiğinizden emin olun.</br>
 
-<h3><a href=""># Canlı Önizleme</a></h3>
+<h3><a href="https://sky-track.netlify.app"># Canlı Önizleme</a></h3>
 <img src="/src/assets/screen.gif" alt="">
